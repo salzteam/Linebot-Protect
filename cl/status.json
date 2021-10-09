@@ -1,0 +1,50 @@
+{
+    "creator": {
+        "u2acde3fbd0fe42d609218c0c3543bf51": true
+    },
+    "owner": {},
+    "admin": {},
+    "staff": {},
+    "blacklist": {},
+    "whitelist": {},
+    "bots": {},
+    "protect": {
+        "prokick": {},
+        "procancel": {},
+        "proinvite": {},
+        "proqr": {}
+    },
+    "solo": "x1",
+    "squad": "x",
+    "help": " salzcorps",
+    "stickercban": {
+        "addstickercban": false,
+        "STKVER": "0",
+        "STKID": "0",
+        "STKPKGID": "0"
+    },
+    "stickersp": {
+        "addstickersp": false,
+        "STKVER": "0",
+        "STKID": "0",
+        "STKPKGID": "0"
+    },
+    "stickerunsend": {
+        "addstickerunsend": false,
+        "STKVER": "0",
+        "STKID": "0",
+        "STKPKGID": "0"
+    },
+    "stickerout": {
+        "addstickerout": false,
+        "STKVER": "0",
+        "STKID": "0",
+        "STKPKGID": "0"
+    },
+    "stickerrespon": {
+        "addstickerrespon": false,
+        "STKVER": "0",
+        "STKID": "0",
+        "STKPKGID": "0"
+    }
+}

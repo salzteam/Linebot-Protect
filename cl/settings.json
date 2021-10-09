@@ -1,0 +1,21 @@
+{
+    "COVER": false,
+    "ChangeDP": false,
+    "FOTO": {},
+    "Img": {},
+    "unsend": {},
+    "autoJoin": true,
+    "changeCoverProfile": false,
+    "restartPoint": null,
+    "setTimess": [],
+    "talkban": {
+        "cover": "/tmp/linepy-1611229402-3.bin",
+        "cvp": false,
+        "name": "",
+        "pict": "",
+        "time": 1527081236.3980744,
+        "timer": 40,
+        "video": ""
+    },
+    "updatepict": {}
+}
